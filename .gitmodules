@@ -1,0 +1,6 @@
+[submodule "CarProjCommon"]
+	path = CarProjCommon
+	url = https://github.com/starnullpointer/CarProjCommon
+[submodule "CommunicationFuncs"]
+	path = CommunicationFuncs
+	url = https://github.com/starnullpointer/CommunicationFuncs
